@@ -1,0 +1,2 @@
+D:\Users\Mateo\Documents\C i C++\C++\SymulatorZycia_ZTPR\x64\Release\SymulatorZycia_ZTPR.exe
+C:\Users\Mati\Desktop\github\Kawecki_Mateusz_SymulatorZycia_ZTPR (1)\Simulator-of-Life-in-Pandemic-game\x64\Release\SymulatorZycia_ZTPR.exe

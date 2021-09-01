@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Mati\Desktop\github\Kawecki_Mateusz_SymulatorZycia_ZTPR (1)\Simulator-of-Life-in-Pandemic-game\main.cpp(122,9): warning C4101: "pkt": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Mati\Desktop\github\Kawecki_Mateusz_SymulatorZycia_ZTPR (1)\Simulator-of-Life-in-Pandemic-game\main.cpp(122,20): warning C4101: "cena": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Mati\Desktop\github\Kawecki_Mateusz_SymulatorZycia_ZTPR (1)\Simulator-of-Life-in-Pandemic-game\main.cpp(123,11): warning C4101: "odp": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Mati\Desktop\github\Kawecki_Mateusz_SymulatorZycia_ZTPR (1)\Simulator-of-Life-in-Pandemic-game\main.cpp(122,14): warning C4101: "wart": lokalna zmienna, do której nie istnieje odwołanie
+  wlasne_klasy.cpp
+  Generowanie kodu...
+C:\Users\Mati\Desktop\github\Kawecki_Mateusz_SymulatorZycia_ZTPR (1)\Simulator-of-Life-in-Pandemic-game\wlasne_klasy.cpp(145): warning C4715: "Chory::odbierz_jedz_choremu”: niewszystkie ścieżki kodu zwracają wartość
+  SymulatorZycia_ZTPR.vcxproj -> C:\Users\Mati\Desktop\github\Kawecki_Mateusz_SymulatorZycia_ZTPR (1)\Simulator-of-Life-in-Pandemic-game\x64\Debug\SymulatorZycia_ZTPR.exe

@@ -1,0 +1,89 @@
+id 1
+Halina Kos
+lat 63; Pielegniarka; Opiekuje sie osieroconymi wnukami.
+30
+-3
+herbatniki
+2
+2
+######################
+id 2
+Stefan Kowal
+lat 39; Murarz; Kazdy pijak to zlodziej...
+87
+0
+sardynki
+3
+2
+######################
+id 3
+Jacek Mocny
+lat 16; Uczen; Olimpijczyk z fizyki.
+80
+-3
+kielbasa
+10
+8
+######################
+id 4
+Karolina Wisniewska
+lat 25; Kelnerka; W III trymestrze ciazy;
+38
+2
+czekolada
+6
+2
+######################
+id 5
+Karol Stefanski 
+lat 45; Biznesmen / Karany za malwersacje; Ojciec 3 dzieci w wieku przedszkolnym 
+50
+1
+whisky
+1
+10
+######################
+id 6
+Kamil Tumu(L)ec
+lat 24; Pi³karz, Oddany fan Legii, lubi filmy akcji.
+10
+-3
+piwo
+1
+1
+######################
+id 7
+Tomus Radziszewski
+lat 8; Marzy o zostaniu pilotem; Niedozywiony / astmatyk
+12
+-3
+lizak
+1
+2
+######################
+id 8
+Elzbieta Kociniak
+lat 53; Nauczycielka; Wolontariuszka w domu dziecka / po zawale 
+75
+0
+kurczak
+12
+10
+######################
+id 9
+Szymon Wydra
+lat 78; Zakonnik; Wieloletnia dzialalnosc misyjna
+7
+-3
+rozaniec
+0
+2
+######################
+id 10
+Piotr Piotrovic
+lat 30; Zawodowy zolnierz; Bez rodziny / dobra kondycja
+90
++3
+grochowka
+5
+5
